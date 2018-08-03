@@ -4,11 +4,12 @@
   "description": "This is a webhook to get recent projects",
   "main": "index.js",
   "scripts": {
-    "test": "index.js"
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://bpardini@bitbucket.org/bpardini/testwebhook.git"
+    "url": "https://github.com/brntsw/k2-webhook.git"
   },
   "keywords": [
     "bot",
