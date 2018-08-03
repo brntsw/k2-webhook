@@ -1,0 +1,24 @@
+{
+  "name": "k2-webhook",
+  "version": "1.0.0",
+  "description": "This is a webhook to get recent projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bpardini@bitbucket.org/bpardini/testwebhook.git"
+  },
+  "keywords": [
+    "bot",
+    "webhook"
+  ],
+  "author": "Bruno Pardini",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/bpardini/testwebhook#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
